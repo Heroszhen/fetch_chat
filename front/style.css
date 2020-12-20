@@ -1,0 +1,22 @@
+#chat{
+	height: 600px;
+	overflow: auto;
+}
+
+#chat .oneresponse{
+	margin-bottom: 30px;
+}
+#chat .oneresponse.right{
+	padding-right: 60%;
+}
+#chat .oneresponse.left{
+	padding-left: 60%;
+}
+
+#chat .oneresponse span{
+	font-style :  italic;
+}
+
+#chat .userinfos{
+	font-size: 10px;
+}
